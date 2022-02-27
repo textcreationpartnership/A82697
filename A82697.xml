@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament. In answer to His Majesties declaration, intituled His Majesties declaration to all his loving subjects, after his late victory against the rebels, on Sunday the 23 of October, 1642. Together, with a catalogue of the names of divers of the colonels, lievtenant-colonells, serjeant majors, captains, and lievtenants, that are papists and commanders in the army, under the command of the Earle of Nevv-Castle. Ordered by the Lords and Commons assembled in Parliament, that this declaration be forthwith printed and published. Hen. Elsyng. Cler. Parl. Dom. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82697</idno>
+            <idno type="STC">Wing E1442</idno>
+            <idno type="STC">Thomason E244_23</idno>
+            <idno type="STC">ESTC R212569</idno>
+            <idno type="EEBO-CITATION">99871173</idno>
+            <idno type="PROQUEST">99871173</idno>
+            <idno type="VID">158338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158338)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E244[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament. In answer to His Majesties declaration, intituled His Majesties declaration to all his loving subjects, after his late victory against the rebels, on Sunday the 23 of October, 1642. Together, with a catalogue of the names of divers of the colonels, lievtenant-colonells, serjeant majors, captains, and lievtenants, that are papists and commanders in the army, under the command of the Earle of Nevv-Castle. Ordered by the Lords and Commons assembled in Parliament, that this declaration be forthwith printed and published. Hen. Elsyng. Cler. Parl. Dom. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>12, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, and John Franke,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 23.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158338:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The Lords and Commons Aſſembled in PARLIAMENT.</p>
+            <p>In Anſwer to His Majeſties Declaration, Intituled His Majeſties Declaration to all His loving ſub<g ref="char:EOLhyphen"/>jects, after His late Victory againſt the Rebels, on <hi>Sunday</hi> the 23 of <hi>October,</hi> 1642.</p>
+            <p>Together, With a Catalogue of the names of divers of the Colonels, Lievtenant-Colonells, Serjeant Majors, Cap<g ref="char:EOLhyphen"/>tains, and Lievtenants, that are Papiſts and Com<g ref="char:EOLhyphen"/>manders in the Army, under the Command of the Earle of NEVV-CASTLE.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>ORdered by the Lords and Commons Aſſembled in Par<g ref="char:EOLhyphen"/>liament, That this Declaration be forthwith Printed and Publiſhed.</p>
+                  <closer>
+                     <signed>Hen. Elſyng. Cler. Parl. Dom. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and <hi>John Franke,</hi> 1642.</p>
+            <pb facs="tcp:158338:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="3" facs="tcp:158338:2"/>
+            <head>A Declaration of the <hi>Lords</hi> and <hi>Commons</hi> aſſem<g ref="char:EOLhyphen"/>bled in <hi>PARLIAMENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Lords and Commons in Parliament, having ſeen a Printed Declaration entituled His Majeſties Declaration to all his loving Subjects, after his late victory againſt the Rebels, on Sunday the 23 of <hi>October:</hi> And finding the ſame to be full of ſcandalls and invectives againſt the Parliament, without any ground or colour of truth to ſupport them. Thought it our duty aſwell for the diſcovery of the falſhood thereof, as of the malice and ſubtilties of the Con<g ref="char:EOLhyphen"/>trivers of thoſe ſcandalls, who to our unſpeakable ſorrows, have gained ſo much power with His Majeſty, as to vent the ſame under the title of his owne Royall name, to make this enſuing Declaration in anſwer thereunto.</p>
+            <p>In the beginning of that Declaration, the contrivers thereof ſpeak in His Ma<g ref="char:EOLhyphen"/>jeſties name, of a great preſervation of His Majeſty and his Children in the late Battell.</p>
+            <p>If His Majeſty and his Children eſcaped any danger in that Battell, as we are ready with the Contrivers to rejoyce thereat, ſo do we apprehend a juſt cauſe of ſorrow, That His Majeſty ſeduced by the deſperate advice of lewd and wicked Counſell, who tender their own preſervation before His, would intermix himſelf with Traitors and Rebels, and expoſe his own Royall Perſon and his Children to that danger.</p>
+            <p>And whereas the Parliament under the name of a Malignant party is charged with an endeavour to poiſon the hearts, and corrupt the Allegeance of the Kings Subjects, by urging and preſſing a falſe groundleſſe imputation (as it is there ſtiled) of favouring Popery, and imploying many of that Religion in his Majeſties Army.</p>
+            <p>Though we have iuſt cauſe to believe that our late Declaration of the 15 of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> is ſufficient to prove, That the aſperſion of favovring Papiſts, and imploy<g ref="char:EOLhyphen"/>ing them in the Kings Army, the ſame being there not only barely alleadged, but the evidence proving the ſame, and the perſons ſo employed particularly ſet down: Yet ſince the Contrivers of that Declaration have the confidence to deny it, We
+<pb n="4" facs="tcp:158338:3"/>
+thought it neceſſary for the confirmation thereof, to publiſh ſome evidences and advertiſements that we received ſince the iſſuing out of our ſaid late Declaration, touching that particular.</p>
+            <p>Firſt, that it doth appear by the examination of Maſter <hi>Dormer,</hi> who profeſſeth himſelfe a Papiſt, taken before a Committee of the Houſe of Commons, That a Commiſſion under the Kings own hand was delivered unto him, by Serieant Ma<g ref="char:EOLhyphen"/>ior <hi>Courtney<g ref="char:punc">▪</g>
+               </hi> a notorious Papiſt, Authorizing the ſayd <hi>Dormer</hi> to be a Captaine of a Foot Company, in the Regiment of Sir <hi>John Beaumont,</hi> another profeſſed Pa<g ref="char:EOLhyphen"/>piſt, and with that Commiſſion, threeſcore and fifteen men raiſed in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Lancaſter,</hi> conſiſting (as is probable) of Papiſts, though Mr. <hi>Dormer</hi> in his examination alleadgeth he knoweth not whether they were Proteſtants or Papiſts. And it doth further appear by a Commiſſion now remaining in the Houſe of Com<g ref="char:EOLhyphen"/>mons, ſigned with the Kings own hand, that the ſayd <hi>Courtney</hi> is made Serieant Ma<g ref="char:EOLhyphen"/>ior of that Regiment. And by the ſame examination, another profeſſed Papiſt is Lievtenant Colonell; and by a letter intercepted ſent from one <hi>Dan. Chambers</hi> a Papiſt (as is informed) directed to one Captain <hi>Thomas Rookewood,</hi> That he ex<g ref="char:EOLhyphen"/>preſſeth his ioy for the good ſucceſſe of the generall Cauſe, and the advancement of their deſign. And by another letter intercepted likewiſe, and ſent from the ſame <hi>Dan. Chambers</hi> to Serieant Maior <hi>Courtney,</hi> That he was going to the North where (as we are now advertiſed) the Papiſts are raiſing a conſiderable Army, That he li<g ref="char:EOLhyphen"/>ked well the way of two yeers compoſition, and would propound it, That his en<g ref="char:EOLhyphen"/>deavours ſhould never be wanting to further any good action, and the more wherein he the ſaid <hi>Courtney</hi> was intereſſed; And though the <hi>Hothamites</hi> would hinder his travelling, yet he would venter hard, and daily pray for the generall Cauſe. And in a letter ſent from one <hi>Savage,</hi> a ſervant of the Earle of <hi>Newcaſtle,</hi> his Maieſties Generall in the North, directed to one <hi>John Atkins</hi> of <hi>Lambeth,</hi> are contained theſe words, <hi>Tell them that the Pope rules in peace here in</hi> Northumberland. <hi>&amp;c. no proſe<g ref="char:EOLhyphen"/>cution neither of Prieſt or Papiſt:</hi> And in another ſent from one <hi>George Tempeſt</hi> a Papiſt, to his brother <hi>John Tempeſt</hi> in the Kings Army, are theſe words: <hi>Our Prieſts at</hi> Lancaſter <hi>are all at liberty, Catholique Commanders admitted, and all well enough that way, God Almighty (as I hope) will the b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter proſper the deſign:</hi> And in the Printed Declaration it ſelfe, it is confeſſed, That Popiſh Commanders are employed in the Kings Army, and that which is as notorious as any of the reſt, They of the Popiſh Religion are arrived to that height of favour, that upon their Petition preſented to his Maieſty, they have obtained an expreſſe command and direction, That they and their ſervants and Tenants (though Convict Recuſants, and conſequently by the Laws and Statutes of this Realm to be diſarmed) ſhould Arm themſelves, and uſe them for the defence of his Maieſties Perſon, and in oppo<g ref="char:EOLhyphen"/>ſition to the Forces raiſed by the Parliament; which Petition and Anſwer we have cauſed to be printed herewith, We need not again recite the Earle of <hi>Worceſter</hi> and his Son the Lord <hi>Harbert,</hi> two of the moſt eminent and powerfull Papiſts in the Kingdom, their levying of great Forces in <hi>Mounmouthſhire</hi> and <hi>Wales,</hi> having mentioned it in our former Declaration. And we purpoſely omit many other
+<pb n="5" facs="tcp:158338:3"/>
+demonſtrations of favour extended unto them, as the not putting the Laws in ex<g ref="char:EOLhyphen"/>ecution againſt them, their free reception into the Kings Court and Preſence, the tender care of them and their perſons and eſtates from the danger of the Kings for<g ref="char:EOLhyphen"/>ces, when the moſt pious and zealous Proteſtant Miniſters and others, are moſt b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>barouſly murthered, plundred, and robbed of their eſtates and fortunes. And up<g ref="char:EOLhyphen"/>on what is already ſayd, ſubmit it to the World to iudge, whether the favouring of Popery, and employing them of that Religion in the Kings Army, be a falſe and groundleſſe imputation; and we do the more wonder at the confidence of the Contrivers, in urging that to be a groundleſſe imputation and ſcandall, when we ſee a Declaration publiſhed by the Earle of <hi>Newcaſtle,</hi> his Maieſties Generall in the Northern parts, which doth not only confeſſe that he hath taken divers Popiſh R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cuſants in thoſe parts, under his command and conduct, but ſpends ſome Leaves (weakly enough) in endeavouring by the examples and preſidents of former times, to iuſtifie the ſame; and therefore we need not any further to labour the proofe of the matter of fact.</p>
+            <p>For the Allegation, That great number of Popiſh Commanders and others ſerve in the Army under the c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nduct of the Earle of <hi>Eſſex,</hi> and of the private promiſes and undertakings made to them, That if they would aſſiſt againſt his Maieſty, all the Lawes made in their preiudice, ſhould be repealed; A charge contrary not only to the profeſſion and ſeverall proteſtations of both Houſes of Parliament, but even to reaſon and policy it ſelfe, That they who have raiſed an Army for the iuſt de<g ref="char:EOLhyphen"/>fence of their Priviledges, Lawes, and Liberties, and of the true Proteſtant Reli<g ref="char:EOLhyphen"/>gion, ſhould make uſe of Papiſts, the only enemies of them all, to be the Inſtru<g ref="char:EOLhyphen"/>ment and means to protect them.</p>
+            <p>If the Contrivers of that Declaration had been pleaſed to name ſome of that great number of Papiſts they ſuppoſe to be in the Earl of <hi>Eſſex</hi> his Army, they had not onely afforded us the means to have cleered our ſelves from that Imputati<g ref="char:EOLhyphen"/>on, by joyning iſſue with them of the truth thereof, but given us opportunity in caſe any of that Religion, under the name and profeſſion of a Proteſtant (for o<g ref="char:EOLhyphen"/>therwiſe we are aſſured they could not) had crowded themſelves into the Army, to remove them: But in regard they omitted the mention of any pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticular, we are confident, That ei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her they could not name any, or in caſe any of the Popiſh Re<g ref="char:EOLhyphen"/>ligion be in that Army, they are ſubtilly, by the cunning and malicious practiſe of our enemies conveyed thither, under the mask and profeſſion of Proteſtants, to corrupt (if they can) the good affection of others, and ſo made Inſtruments to de<g ref="char:EOLhyphen"/>ſtroy us, as <hi>David Alexander</hi> ſhould have been, had not Gods goodneſſe and provi<g ref="char:EOLhyphen"/>dence, by a timely diſcovery, prevented it.</p>
+            <p>But to ſhew how much the Parliament did alwayes abhor and deteſt the ayd and aſſiſtance of Papiſts, of what nature ſoever, we hold it fit upon this occaſion, to let the World know, That about the beginning of this Parliament, divers eminent Papiſts of this Kingdom did prefer a Petition to the Houſe of Commons, for the repealing of ſome Laws now in force againſt them, with an humble ſubmiſſion to all reaſonable Conformity; the ſubſtance of the ſame being opened, it was app<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>hended
+<pb n="6" facs="tcp:158338:4"/>
+with ſuch Indignation, that it was never ſo much as vouchſafed to be read but quite rejected.</p>
+            <p>And upon Information given, That the Lord <hi>Dillon,</hi> and Colonell <hi>Taffe</hi> were employed by the Rebells of <hi>Ireland,</hi> to bring ſome Propoſitions to his Maieſty; and that (amongſt others) one was, That there ſhould be a Toleration of the Po<g ref="char:EOLhyphen"/>piſh Religion in <hi>Ireland;</hi> It was thereupon reſolved on the eighth of <hi>Decemb.</hi> 1641, upon ſolemn debate, by the Lords and Commons, That they would never give conſent to any Toleration of the Popiſh Religion in <hi>Ireland,</hi> or in any other of his Maieſties Dominions. And when the Lord <hi>Herbert,</hi> ſon of the Earl of <hi>Worce<g ref="char:EOLhyphen"/>ſter,</hi> this Parliament, made an offer to the Houſe of Commons, to give freely 500<hi rend="sup">l</hi> a year, or 5000<hi rend="sup">l</hi> to be diſpoſed at the pleaſure of the Parliament, yet the Houſe, though in a time of great neceſſity to uſe money, becauſe the ſame came tendered by the hand of a Papiſt, did refuſe to accept. All which had been paſſages of great weakneſſe, had we intended any correſpondency with them. And we are confident, That this Charge is ſo full of malice, and ſo far from truth, that we dare challenge all the world, not to be able to make it good againſt any one particular Member.</p>
+            <p>For the matter of his Maieſties raiſing an Army againſt the Parliament, and ta<g ref="char:EOLhyphen"/>king away the Priviledges thereof, which the contrivers of that Declaration tearm<g ref="char:EOLhyphen"/>ed to be a ſenſeleſſe ſcandall, we ſhall refer it to the judgement even of ordinary Capacities, Whether is moſt voyd of ſenſe, to ſay, That this War is raiſed againſt the Parliament, or, That both Houſes, whereof the one conſiſts of all the Peers, the other, of eminent and principall Gentry of the Kingdom, who for their Abili<g ref="char:EOLhyphen"/>ties, and known Integrities, are by the Univerſall Conſent of the Kingdom, cho<g ref="char:EOLhyphen"/>ſen to repreſent them, are governed by the number of not above 12 or 20 perſons, and that thoſe few ſhould have a power to force and compell the reſt to ſubmit to their Faction, and to have their Libertie and Freedom of Conſultation taken from them.</p>
+            <p>But the truth is, That it is not a few perſons, but the Parliament it ſelf is the thorn that lies in theſe mens ſides; which heretofore, when it was wont to prick them, was with much eaſe, by a ſudden diſſolution, pulled out: But now that it is more deep<g ref="char:EOLhyphen"/>ly faſtned by the Act of Continuance, they would force it out by the power of an Army.</p>
+            <p>And whoſoever will purſue the ſeverall Speeches and Declarations made upon the breaking up of former Parliaments ſince the beginning of his Maieſties Raign, will finde the pretences of thoſe uniuſt and illegall Diſſolutions, to be grounded upon the exceptions againſt ſome particular Members, under the name of a few factious and ſeditious perſons: So that the aſperſing and wounding of the Parlia<g ref="char:EOLhyphen"/>ment thorow the ſides of a few Members, is no new Invention.</p>
+            <p>And for the ſatisfaction of all indifferent men, that this War is raiſed againſt the Parliament, we ſhall refer them to former Declarations iſſued out in his Maie<g ref="char:EOLhyphen"/>ſties Name, being ſo many Invectives, and groundleſſe Accuſations, not againſt particular Members onely, but againſt the Votes and Proceedings of both Houſes,
+<pb n="7" facs="tcp:158338:4"/>
+and in plain tearms, declaring and publiſhing both Houſes guilty of high Treaſon; (a Charge not to be preſidented by any former times, or in truth that Councell can<g ref="char:EOLhyphen"/>be capable of.) And that the Earl of <hi>Eſſex,</hi> Generall of the Forces raiſed for the defence of the King, Parliament, and Kingdom, is a Traytor; and that all thoſe that ayd and aſſiſt him, thereby comprehending both Houſes of Parliament, by whoſe Command and Authority he bears that place, are Rebells, and guilty of high Treaſon: Notwithſtanding all which, the Contrivers of that Declaration can have the face to term it, <hi>A groundleſſe Accuſation</hi> to affirm, That the Army raiſed by his Maieſty, is raiſed againſt the Parliament, or to take away the priviledges thereof.</p>
+            <p>But if the truth were, as that Declaration ſeems to imply, That this Army is raiſed to force ſome particular Members of this Parliament to be delivered up, yet upon that Ground would it follow, That the ſame is levied againſt the Parliament: For it cannot be denyed by any ingenious man, but that the Parliament, by their in<g ref="char:EOLhyphen"/>herent Rights and Priviledges, hath the power to iudge and puniſh their own Mem<g ref="char:EOLhyphen"/>bers: And we have often declared to his Maieſty and the world, That we were al<g ref="char:EOLhyphen"/>wayes ready to receive any evidence or accuſation againſt any of them, and to judge and puniſh them according to their demerits; yet hitherto no Evidence produced, no Accuſer appearing: And yet notwithſtanding to raiſe an Army to compell the Parliament to expoſe theſe Members to the fury of thoſe wicked Councellors, that thirſt after nothing more, then the ruine of them and the Common-wealth: What can be more evident, then that the ſame is levied againſt the Parliament; for did they prevail in this, then by the ſame reaſon might they demand twenty more; and conſe<g ref="char:EOLhyphen"/>quently, never reſt ſatisfied, untill their malice and tyranny did devour all thoſe Members they found croſſe and oppoſite to their lewd and wicked Deſigns.</p>
+            <p>Touching the priviledges of Parliament, which the Contrivers of that Declara<g ref="char:EOLhyphen"/>tion (in his Maieſties Name) ſeem to be ſo tender of, and to profeſſe all Conformi<g ref="char:EOLhyphen"/>ty unto, and to deny this Army to be raiſed in any degree to violate, we ſhall ap<g ref="char:EOLhyphen"/>peal to the Judgement of any indifferent man that will take a ſhort view of their proceedings, how little truth is contained in this their Aſſertion.</p>
+            <p>The Parliament is to be conſidered in three ſeverall reſpects: firſt, As it is a Councell, to adviſe: ſecondly, As it is a Court, to iudge: thirdly, As it is the Bo<g ref="char:EOLhyphen"/>dy Repreſentative of the whole Kingdom, to make, repeal, or alter Laws. And whether the Parliament hath enioyed its priviledges in any of theſe reſpects, let any that hath his eyes open iudge.</p>
+            <p>For the firſt, we dare appeal even to the conſciences of the Contrivers them<g ref="char:EOLhyphen"/>ſelves, Whether the Parliament, for the moſt part of the time they have ſate, hath been conſulted with in any matter concerning the Church or State, of what nature or conſequence ſoever; nay, Whether matters of higheſt Importance have not been agitated and determined, not onely without, but contrary to their Advice; and, Whether private and unknown Counſells, deſtructive both to Church and State, have not been hearkned unto, approved, and followed, when the faithfull and wholeſome Advice of that greateſt Councell hath been ſcorned and neglected; and yet none can deny, but it is one of the principall ends why a Parliament is cal<g ref="char:EOLhyphen"/>led
+<pb n="8" facs="tcp:158338:5"/>
+to conſult of the great Affairs of the Church and State: And what miſerable effects, and ſad events this neglect of that great Councell, and preferring of un<g ref="char:EOLhyphen"/>known and private counſells before it, hath produced, let the preſent Diſtractions of this Kingdom bear witneſſe.</p>
+            <p>Concerning the ſecond, that is, The Judicature of the Parliament, not to inſiſt upon the private practices, even from the firſt ſitting thereof, to interrupt our le<g ref="char:EOLhyphen"/>gall proceedings againſt Delinquents, in the ſecret conveying them b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yond the Seas, by immediate Warrants procured from his Maieſty, as in the Caſes of Secretary <hi>Windebank,</hi> the Lord <hi>Finch,</hi> the Lord <hi>Digby, M. Percy, M. Germyn,</hi> and others accuſed in Parliament of high Treaſon; we ſhall mention onely what hath been done therein by publike Actio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and of them, recite ſome few particulars notori<g ref="char:EOLhyphen"/>ouſly known to the Kingdom; As firſt the reſcuing of <hi>Beckwith,</hi> a profeſſed Papiſt, by the Cavaliers, from our meſſenger at <hi>York,</hi> being ſent for to anſwer a notable Delinquency againſt the Parliament; and by his Maieſties own perſonall com<g ref="char:EOLhyphen"/>mand, diſcharged, though the meſſenger informed his Maieſty of his Warrant from the Parliament to apprehend him, and the violence done him by the Cavaliers, The abuſing, beating, and ſcoffing of divers other our meſſengers at <hi>York,</hi> being ſent thither by the Parliament for Delinquents, and forced by the Cavaliers to return back well beaten, without their priſoners: His Maieſties expreſſe Commands ſent to ſeverall Sheriffs of this Kingdom, and to divers others, not to obey any M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſenger or Command of both or either Houſes of Parliament, and to reſiſt them; His Maieſties enioyning the Members of both Houſes to reſide with him, whereas by the legall and reſpective Summons of both Houſes whereof they were Members, they were commanded to repair to the Parliament, and which they were bound, by the Duty of their places and calling, and the known Laws of the Land, to obey: The taking away of the Great Seal, whereby the execution of Juſtice, which is the ſoul and life of all Laws, is much interrupted; an act not to be parallell'd by the ex<g ref="char:EOLhyphen"/>ample of any former times, and ſuch (were it done to the meaneſt Court of the Kingdom) could not be juſtified, there being no Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t without a Seal belonging to it.</p>
+            <p>The making the Kings Court by the force and power of the Kings Army, the ſanctuary and refuge of all ſorts of Delinquents againſt the Parliament and King<g ref="char:EOLhyphen"/>dome, and protecting and defending them from the juſtice thereof: His Majeſties receiving into His grace and favour, and by force and violence protecting them from the Juſtice of the Parliament, ſuch as ſtand impeached of high Treaſon, and ſo far convinced of their own guilt, that they durſt not ſtand to their Tryall, but fled out of the Realm to avoid the ſame; and are now returned, and in moſt emi<g ref="char:EOLhyphen"/>nent credit and eſteem with His Majeſty, and bear places of great truſt in the Ar<g ref="char:EOLhyphen"/>my, and ſtand in defiance of the Parliament, and the Authority thereof; as name<g ref="char:EOLhyphen"/>ly, The Lord <hi>Digby, M. Henry Percy,</hi> Maſter <hi>Dani<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Oneal,</hi> and Captain <hi>Legg,</hi> all impeached of high Treaſon, Maſter <hi>Wilmot,</hi> and Maſter <hi>Aſhburnham,</hi> impeach<g ref="char:EOLhyphen"/>ed of Miſpriſion of Treaſon; and all thoſe Impeachments before any Army raiſed by the Parliament.</p>
+            <pb n="9" facs="tcp:158338:5"/>
+            <p>Touching the third particular of making and altering Lawes, we ſhall need to ſay little of that, it being well known to the Kingdome, that divers Bills highly importing the peace and proſperity of the Church and Common-wealth have paſt both Houſes, and been preſented to his Majeſty for his Royall aſſent, and all denied; and Declara<g ref="char:EOLhyphen"/>tions have been made and publiſhed in his Majeſties name, that he would not paſſe any Bill of what Importance or conſequence ſoever (the buſineſſe of <hi>Ireland</hi> excepted) before certain Demands of His Majeſty in thoſe Declarations mentioned, which the Parliament could not in Honour or Juſtice aſſent unto, were granted. A Declara<g ref="char:EOLhyphen"/>tion, (we are confident) that cannot finde a preſident to warrant it in any Kings time.</p>
+            <p>By all which it is apparent how our Priviledges have been torn from us by peece-meales from time to time. And we might mention many paſſages, whereby they were endeavoured to be pulled up by the root, and totally ſubverted. As the attempt to bring up the late Army from the North to force Conditions upon the Parliament; The Petition and Proteſtation of the Biſhops, to Invalide all the Acts and Proceed<g ref="char:EOLhyphen"/>ings thereof. His Majeſties Letters and Commands to the Members of both Houſes (which found obedience in a great many) to attend Him at <hi>York;</hi> and ſo by depri<g ref="char:EOLhyphen"/>ving the Parliament of their Members, deſtroye the whole Body. But we ſhall reſt ſatisfied with what is already ſaid, which is enough to prove the vanity of the Con<g ref="char:EOLhyphen"/>trivers, to feed themſelves with hope of beliefe, That the Priviledges of Parliament are not violated, but intended to bee preſerved with all due obſervance.</p>
+            <p>Concerning the Allegations that the Army raiſed by the Parliament is to murther and depoſe the King; We hoped the Contrivers of that Declaration, or any that pro<g ref="char:EOLhyphen"/>feſſed but the name of a Chriſtian, could not have ſo little charity as to raiſe ſuch a ſcan<g ref="char:EOLhyphen"/>dall, eſpecially when they muſt needs know the Proteſtation taken by every Member of both Houſes, whereby they promiſe in the preſence of Almighty God, to defend His Majeſties Perſon. The Promiſe and Proteſtation made by the Members of both Houſes upon the nomination of the Earle of <hi>Eſſex</hi> to be Generall, and to live and die with him, wherein is expreſſed, That this Army was raiſed for the defence of the Kings Perſon.</p>
+            <p>Our often, earneſt, and moſt humble addreſſes to His Majeſty to leave that deſperate and dangerous Army where with He is now encompaſſed, raiſed and upheld to the hazard of his owne and the Kingdomes ruine; And to come in Perſon to His Parlia<g ref="char:EOLhyphen"/>ment, where he ſhould be ſure to remain in Honour and Safety. And our humble Pe<g ref="char:EOLhyphen"/>tition directed to be preſented to Him by the hands of the Earle of <hi>Eſſex,</hi> before any blow given, to remove His Royall Perſon from that Army, a requeſt inconſiſtent with any purpoſe to offer the leaſt violence to His Perſon, which hath and ever ſhall be dear unto us.</p>
+            <p>It was well known we raiſed not any Forces untill a conſiderable body of an Army was raiſed againſt the Parliament to deſtroy us, our Liberties and Religion, which being ſecured unto us, and the Armie raiſed againſt us disbanded, we ſhall be ready and willing to disband, and do moſt earneſtly deſire it.</p>
+            <p>And concerning the imputation laid to our charge of our raiſing this Army to alter the Frame of Government, and eſtabliſhed Lawes of the Land, we ſhall need to give it no other Anſwer then this, That if to raiſe an Army in our own juſt defence, when another is marching towards us to deſtroy us and our Laws, be to alter the Frame of Government, then is that Army raiſed for that purpoſe, otherwiſe it is for
+<pb n="10" facs="tcp:158338:6"/>
+our owne and our Lawes neceſſary preſervation.</p>
+            <p>And whereas the contrivers of that Declaration urge it as a neceſſary conſequence, That becauſe the Kings Perſon was in danger in the late Battell of the 23. of <hi>October,</hi> therefore the Army raiſed by the Parliament, and that gave Battell to the other Army, was not raiſed for the defence of the Kings Perſon, but of purpoſe to deſtroy him: We confeſſe we underſtand not the Logique thereof, no more then if the Kings Perſon ſhould be chaſed, apprehended and poſſeſſed by Theeves and Robbers, and the Kings good Subjects ſhould raiſe an Army to purſue thoſe Robbers, and by Battell diſpoſ<g ref="char:EOLhyphen"/>ſeſſe them of him, and reſcue him from their Power and Tyranny; That therefore this was an Army raiſed to murder and deſtroy the King.</p>
+            <p>And we cannot but wonder that we are ſtill charged with that ſcandall (ſo often an<g ref="char:EOLhyphen"/>ſwered) That the greateſt part of our Members are driven away by violence, when in<g ref="char:EOLhyphen"/>ſtance cannot be made of any one in particular, and that it is well known, that many of them, if not moſt of them that abſent themſelves have been by expreſſe Letters from His Majeſtie commanded to repaire to Him to <hi>York:</hi> And contrary to the expreſſe Summons of either Houſe required to continue there, and many of them have ſince been Principals and Inciters of this Warre againſt the Parliament and Kingdome.</p>
+            <p>Concerning the Book of Common Prayer, ſuggeſted by that Declaration to be re<g ref="char:EOLhyphen"/>jected, we have by ſeverall Declarations cleared our ſelves of that Charge, that we never rejected it, that we intend to take nothing out of it, but what ſhall be evill and juſtly offenſive, or at leaſt but unneceſſary and burthenſome, and for that purpoſe to require the Advice of a Religious, Learned and Orthodoxe Aſſembly of Miniſters.</p>
+            <p>Touching the Aſperſion of our giving no countenance to any, but to Browniſts and Anabaptiſts, we would have been very glad to know who, and what kinde of per<g ref="char:EOLhyphen"/>ſons the Contrivers of that Declaration intend by Browniſts and Anabaptiſts, for now all ſuch as will not ſubmit to thoſe unwarranted Ceremonies, and Popiſh Innova<g ref="char:EOLhyphen"/>tions lately introduced in the Church by the Prelaticall party, ſuch as in truth and ſin<g ref="char:EOLhyphen"/>cerity of heart make conſcience of their wayes, ſuch as will not by blaſphemous oaths prophane Gods Name, and contemne the Lords Day, and ſuch as look after, and hear<g ref="char:EOLhyphen"/>tily wiſh a perfect and thorough Reformation in the Church, are by that Malignant and Popiſh party comprehended under the name of Browniſts and Anabaptiſts: And if by Browniſts and Anabaptiſts they intend ſuch Perſons, we acknowledge the coun<g ref="char:EOLhyphen"/>tenancing of them: But if by that name and ſtyle they mean ſuch, who are truly ſo, according to the reall and proper ſignification of the expreſſion, we do affirm it to be a falſe groundleſſe imputation; And had not His Majeſty (ſeduced thereunto by that Popiſh and Prelaticall Faction) denied His conſent to the Bill for the Aſſembly ſo often by both Houſes preſented unto Him, we had long ſince manifeſted to the world by a well ſetled Reformation, our utter diſlike of Browniſme and Anabaptiſme. But we very well know it is one of the Stratagems of that Prelaticall party, to interrupt us of the means to ſettle Church Government, that by the delay thereof they may ſtirre up Factions and Diviſions amongſt the people, (who having not the rule before them, are apt to run ſeverall wayes, and ſo impute the Errours and indiſcreet carriage of few perſons unto the Parliament: But God in his good time will unmask their plots and confound their devices.</p>
+            <p>The Contrivers of that Declaration ſuggeſt an endeavour by us to raiſe an implaca<g ref="char:EOLhyphen"/>ble malice and hatred between the Gentry and Commonalty of the Kingdome. A charge of a very ſtrange n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture<g ref="char:punc">▪</g> That we ſhould endeavour to raiſe up a ſpirit of hatred
+<pb n="11" facs="tcp:158338:6"/>
+and malice in the Comminalty againſt our ſelves; For ſo it muſt neceſſarily follow, unleſſe theſe Contrivers will deny us to have any part or intereſt in that ſtyle or Title of Gentry. And though we know very well there are too many of the Gentry of this Kingdome, who to ſatisfie the luſts of their own ambition, are content like <hi>Eſau</hi> to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell their Birth-right and render themſelves and their poſterity to perpetuall ſlavery, and care not to ſubmit themſelves to any Arbitrary and unlimited Government; ſo they may for their own time partake of that Power to trample and inſult over others: yet we are aſſured that there are of the Gentry many worthy and true-hearted Patri<g ref="char:EOLhyphen"/>ots, who are ready to lay down their Lives and Fortunes, (and of late have given am<g ref="char:EOLhyphen"/>ple teſtimony thereof) for maintenance of their Lawes, Liberties, and Religion, and with them and others of their reſolution, we ſhall be ready to live and die.</p>
+            <p>And though we muſt own it as our duty, to uſe our beſt endeavours, That the meaneſt of the Comminalty may enjoy their own Birth-rights, Freedome, and Liberty of the Laws of the Land, being equally entituled thereunto with the greateſt Subject, yet we hope this is far from any purpoſe to raiſe hatred or malice between them and the Gen<g ref="char:EOLhyphen"/>try, but rather to knit and unite them more faſt together.</p>
+            <p>And that the Commiſſion of <hi>Array</hi> doth take away the Eſtates of the Kings people, is a Charge ſo far from a ſcandall, or being ſenſleſſe or impoſſible, that we are ready to make it good, That it is not onely ſo in Intention, but Actually put in Execution; For the matter of Intention we ſhall need to goe no further then the words of the Commiſſion it ſelf, that giveth an Arbitrary power to the Commiſſioners, over the perſons and eſtates of the Kings Subjects, which we have made apparent in our De<g ref="char:EOLhyphen"/>claration of the illegality thereof; and therefore as to that particular ſhall referre our ſelves to that Declaration, adding there unto His Majeſties own Letter ſent with di<g ref="char:EOLhyphen"/>vers of the ſaid Commiſſions, to require the Commiſſioners to bring the Trained Bands of ſeverall Counties to attend His Majeſties Royall Standard at <hi>Shrewsbury,</hi> and that the ſeverall Counties ſhould furniſh them with ſufficient Ammunition for the jour<g ref="char:EOLhyphen"/>ney, and money to beare their charge: And that the ſaid Commiſſion hath been put in practiſe to take away the eſtates of the Kings Subjects, we ſhall make it good, that by colour thereof, divers great ſummes of money have been impoſed upon the Inha<g ref="char:EOLhyphen"/>bitants of ſeverall Counties, and they forced to pay the ſame both by diſtreſſe and im<g ref="char:EOLhyphen"/>priſonment of their perſons. And the Commiſſioners of <hi>Array</hi> in the County of <hi>Car<g ref="char:EOLhyphen"/>narvon,</hi> aſſeſſed that County by colour of that Commiſſion to the proportion of above two and twenty Subſidies. And for the levying thereof iſſued out Warrants forthwith to diſtrain, and commit the perſons of ſuch as reſiſted, and accordingly divers were diſtrained and impriſoned.</p>
+            <p>And by this time we are confident all the world will reſt ſatisfied, That the Kings Army was raiſed againſt the Parliament, and to deſtroy the Rights and Priviledges thereof.</p>
+            <p>That perſons of the Popiſh Religion are principally imployed in that Army, That the ſame, and the Forces of the North under the Conduct of the Earle of <hi>Newcaſtle,</hi> and in <hi>Monmouth</hi> Shire and <hi>Wales,</hi> under the comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of the Lord <hi>Harbert,</hi> do moſt conſiſt of Papiſts, and are maintained and continued by them; That by the power of theſe Forces, the Intention is not onely to ſubvert Parliaments, and the Laws, but to follow the Examples of their Brethren in Iniquity, the Rebels in <hi>Ireland,</hi> to pull up the Proteſtant Religion by the roots, and in the place thereof to plant their own Ido<g ref="char:EOLhyphen"/>latry
+<pb n="12" facs="tcp:158338:7"/>
+and Superſtition. That the Army raiſed by the Parliament is to no other end, but for the preſervation of His Majeſties Perſon, to defend themſelves, the Laws of the Land, and the true Proteſtant Religion. All which the Lords and Commons thought good to publiſh, to the intent the danger the Proteſtant Religion lies under may be clearly diſcerned, and that all perſons that love the ſame, may now as one man extend their utmoſt endeavours, and joyn with the Parliament to ſuppreſſe this Popiſh Army and Forces, that otherwiſe in a ſhort time will bring our Religion and Kingdome into ruine.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:158338:7"/>
+            <head>TO THE KINGS MOST Excellent Majeſtie, The humble Petition of Vs the Inhabitants of <hi>Lancaſhire,</hi> whoſe names are hereunder writ<g ref="char:EOLhyphen"/>ten, in the behalfe of our Selves and divers others, being Recuſants:</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas we and the reſt of the ſaid Countie, Your Majeſties moſt loyall Subjects, are diſar<g ref="char:EOLhyphen"/>med, and not ſufficiently provided for the defence of Your Royall Perſon and our owne families; Our moſt humble Supplication to Your Majeſty is, That we may be received into Your moſt gracious pro<g ref="char:EOLhyphen"/>tection from violence, have our Armes taken from us, re-deli<g ref="char:EOLhyphen"/>vered in this time of actuall War, and by Your Majeſties ſpeci<g ref="char:EOLhyphen"/>all directions be inabled further to furniſh our ſelves with com<g ref="char:EOLhyphen"/>petency of weapons for the ſecurity of Your Royall Perſon (if we be thereunto required) our Countries and Families, who now are not onely in danger of the common diſturbance; but alſo menaced by unruly people to be robbed: And when by the Almighties aſsiſtance Your Majeſties Kingdome ſhall be ſettled, in caſe we be again diſ-armed, that a full value in mony in liew thereof to us may be reſtored:</p>
+            <closer>
+               <signed>And we ſhall daily pray, &amp;c.
+<list>
+                     <item>W. G.</item>
+                     <item>C. Tr.</item>
+                     <item>C. T.</item>
+                     <item>Chr. An.</item>
+                     <item>Io. C.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:158338:8"/>
+            <head>To Our Truſty and Welbeloved <hi>Sir William Ger<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd Baronet, Sir Cecill Trafford Knight, Thomas Clifton, Charles Townley, Chriſtoph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Ander<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n, and Jo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Clansfield, and other of Our Sub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ects, Recu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nts Eſqui<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, in the Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nty o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lancaſter.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <opener>
+               <salute>Truſty and Welbeloved,</salute>
+            </opener>
+            <p>WEe greet you well, whereas by reaſon of the Lawes and Statues of our Realme, by which all Recuſants convicted are to be without Arms, your Arms have been taken from you; ſo that now in this time of immiment danger, wherein there are Armies raiſed againſt Our Commands, and contrary to Our Proclamations, and are marching againſt <g ref="char:V">Ʋ</g>s, and divers of Our good Subjects, for obeying Our lawfull Commands, and oppoſing the rebellious proceedings of others ill-affected, are by ſtrong hand ſeized upon and impri<g ref="char:EOLhyphen"/>ſoned, their houſes plundered, and their goods taken away; and the like is threatned to our ſelves, who as all others Our Subjects ought to have Our protection againſt all un<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wfull violence and force: And the Laws made for diſ-arming Recuſants were made onely for a proviſion to prevent danger in time of peace, &amp; were not intended to bar you from a neceſ<g ref="char:EOLhyphen"/>ſary uſe of Arms in time of actuall war, for your own ſafety, or for the defence of Our Per<g ref="char:EOLhyphen"/>ſon againſt all Rebels and Enemies, which by your duty and allegiance you are bound unto<g ref="char:punc">▪</g> which is not, nor ever was meant to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſcharged or taken away by any <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And wh<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> as the Arms<g ref="char:punc">▪</g> which were taken from you<g ref="char:punc">▪</g> ought by Law to have been <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>to have been made uſe of by you in ſuch time of open war, or of ſuch others <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you ſhould pro<g ref="char:EOLhyphen"/>vide: yet under the ſpecious pretence of diſ-arming Recuſants, and perſons <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your Arms have been diſpoſed and diſperſed into the hands of fever all perſons <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and for the moſt part Fomenters and Exciters of theſe Commotions <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Kingdom; Our Will and Command therefore is, and We charge and require you upon your Allegiance<g ref="char:punc">▪</g> and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you tender the ſafety of Our Perſon, and the peace and welfare of Our Kingdom, That you with all poſſible ſpeed provide ſufficient Armes for your ſelves, your ſervants, and your tenants, which We authorize and require during the time of open war raiſed againſt <g ref="char:V">Ʋ</g>s, to keep and uſe for the defence of <g ref="char:V">Ʋ</g>s, and of your ſelves, and of your Country, againſt all Forces and Arms raiſed, or to be raiſed againſt <g ref="char:V">Ʋ</g>s, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt Our conſent, or contrary to Our Proclamations, by colour of any Order, or Ordinance, or Authority whatſoever. And We ſhall (according as We are bound to all Our Subjects) uſe Our utmoſt powers for the protection of you and yours, againſt all <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> vio<g ref="char:EOLhyphen"/>lence. And whenſoever theſe Arms which you ſhall ſo provide (after it ſhall pleaſe God to put an end to theſe dangers and diſtractions) ſhall be taken away from your cuſtody, by reaſon of Our Law <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſame, ſo much as you ſhall have diſpended in proviſion thereof.</p>
+            <closer>
+               <dateline>Given under Our Signet at Our Court at <hi>Cheſter,</hi> 
+                  <date>the 27 of September, in the eighteenth year of Our Raigne</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <pb facs="tcp:158338:8"/>
+                     <item>Sir William Riddell.</item>
+                     <item>Sir Edw. Widdrington.</item>
+                     <item>Sir Fra. Howard.</item>
+                     <item>Sir Nic. Thornton.</item>
+                     <item>Col. Tho. Howard.</item>
+                     <item>M. Lance Errington.</item>
+                     <item>M. Errington of Befron.</item>
+                     <item>M. Geo. Wray.</item>
+                     <item>M. Ralph Mellet.</item>
+                     <item>M. Chr. Wray.</item>
+                     <item>M. Lambton.</item>
+                     <item>M. Hodgeſon.</item>
+                     <item>M. Smith.</item>
+                     <item>M. David Errington.</item>
+                     <item>M. Pudſey.</item>
+                     <item>M. Antho. Bulmer.</item>
+                     <item>M. Jo. Bulmer.</item>
+                     <item>M. Askwith.</item>
+                     <item>M. Geo. Collingwood.</item>
+                     <item>M. Forcer.</item>
+                     <item>M. Evers.</item>
+                     <item>M. Holtby.</item>
+                     <item>M. Evers.</item>
+                     <item>M. William Fenwicke.</item>
+                     <item>M. Ratcliffe.</item>
+                     <item>M. Haggerſton.</item>
+                     <item>M. Forcer.</item>
+                     <item>M. Edw. Gray.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Theſe are the Names of divers of the Collonels, Lieutenants Collonels, Sergeant Majors, Captaines, and Lieutenants that are Papiſts, and Com<g ref="char:EOLhyphen"/>manders in the Army, under the command of the Earle of <hi>Newcaſtle.</hi>
+               </p>
+               <closer>
+                  <signed>H. Elſynge, Cler. Parl. Dom. Com.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
